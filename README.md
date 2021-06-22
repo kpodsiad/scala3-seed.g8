@@ -1,9 +1,14 @@
-A [Giter8][g8] template for scala3 based projects
+### A [Giter8][g8] template for scala3 based projects
 
-Template license
-----------------
-Written in 2021 by kpodsiad
-[other author/contributor lines as appropriate]
+---
+## Usage
+
+`sbt new kpodsiad/scala3-seed.g8`
+
+---
+## Template license
+
+Written in 2021 by [kpodsiad](https://www.github.com/kpodsiad).
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
